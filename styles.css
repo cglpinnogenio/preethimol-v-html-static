@@ -1,0 +1,114 @@
+/* *
+{
+box-sizing: border-box;
+} */
+.container_one
+{
+max-width: 1500px;
+background-color: #000000;
+color: #fff;
+}
+.nav_container
+{
+display: flex;
+justify-content: space-between;
+align-items: baseline;
+padding-top: 1rem;
+padding-left:2rem; 
+padding-right: 2rem;
+}
+.nav_items
+{
+display: flex;
+justify-content: space-between;
+align-content:space-between;
+column-gap: 6rem;
+}
+.nav_container a
+{
+color: #fff;
+text-decoration: none;
+}
+.awards
+{
+font-weight: 400;
+font-size: 1.5rem;
+}
+.container_sign
+{
+ font-style: italic;
+}
+.container_main
+{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.container_two
+{
+font-family: 'Inter';
+font-style: normal;
+padding-left: 2rem;
+}
+.header_title
+{
+font-weight: 600;
+font-size: 2rem;
+}
+.header_paragraph
+{
+font-weight: 300;
+font-size: 1rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+.link a
+{
+font-weight: 300;
+font-size: 1rem;
+color: #fff;
+}
+.header_img
+{
+margin-left: 20rem;
+margin-top: 8rem;
+margin-right:2rem;
+margin-bottom:10rem ;
+}
+.header_img img
+{
+border-radius: 20px;
+}
+.background_image 
+{
+ background-image: url("file:///C:/MyData/Innogenio/HTML%20CSS%20assignment2/cameraImage.svg");
+ height: 60rem;
+ /* max-width: 1500px; */
+ background-position: center;
+ background-repeat: no-repeat;
+ }
+ .content_container
+ {
+   
+padding-left: 2rem;
+padding-right: 2rem;
+padding-top: 1.5rem;
+padding-bottom: 4rem;
+}
+ .inputfield
+{
+border: none;
+outline: none;
+ }
+.container_three
+{
+margin-top: 2.5rem;
+font-weight: 600px;
+}
+ 
+    
+ 
+ 
+
+
+  
